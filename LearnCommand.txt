@@ -12,6 +12,7 @@ Command to link Git to GitHub: git remote add origin https://github.com/psinha18
 
 Command to push the file & changes to the GitHub: git push origin master
 
+Command to pull git pull origin master
 
 Learning point:
 1. Assign a task for review to another user.
