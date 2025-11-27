@@ -9,3 +9,5 @@ Created github repo https://github.com/psinha18/devops-course
 URL: https://github.com/psinha18/devops-course.git
 
 Command to link Git to GitHub: git remote add origin https://github.com/psinha18/devops-course.git
+
+Command to push the file & changes to the GitHub: git push origin master
