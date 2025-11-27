@@ -1,2 +1,4 @@
 $ git init
 Initialized empty Git repository in E:/User_Data/LearnGit/.git/
+
+Amendment
