@@ -18,3 +18,4 @@ Learning point:
 1. Assign a task for review to another user.
 2. The reviewer reviews and checks-in the code tot he branch.
 3. How to assign a task to a reviewer.
+4. Resolving conflict when two developers are working on the same file (basically a file can be checked out by only one developer at a time)
