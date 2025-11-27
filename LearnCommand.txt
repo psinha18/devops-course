@@ -16,3 +16,4 @@ Command to push the file & changes to the GitHub: git push origin master
 Learning point:
 1. Assign a task for review to another user.
 2. The reviewer reviews and checks-in the code tot he branch.
+3. How to assign a task to a reviewer.
