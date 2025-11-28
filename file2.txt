@@ -1,0 +1,2 @@
+1st line added in file2.txt
+2md line from master
