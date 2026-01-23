@@ -1,1 +1,5 @@
 Text
+
+I am using GitBash, how do I know with which user login this is connected to the GitHub portal
+git config --global user.name
+git config --global user.email
